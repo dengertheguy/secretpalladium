@@ -1,7 +1,6 @@
 {
-  "name": "Palladium",
-  "description": "A Simple Web Proxy Made by EnderKingJ",
-  "repository": "https://github.com/LudicrousDevelopment/Palladium",
-  "logo": "https://raw.githubusercontent.com/FogNetwork/Smoke/22a012c8292b1750f078af0bb5890c604edfcedd/public/assets/logo.svg",
-  "keywords": ["palladium", "web-proxy", "web proxy", "proxy", "web-unblocker", "internet", "palladiumproxy"]
+    "name": "Denger Palladium",
+    "description": "Palladium Proxy by Denger",
+    "repository": "dengertheguy/secretpalladium",
+    "logo":"https://raw.githubusercontent.com/c0d3rb0y/Milknami/main/public/img/cookie.png"
 }
